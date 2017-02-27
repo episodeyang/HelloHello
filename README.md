@@ -1,4 +1,11 @@
-# helloHell
-test test
 
-Hi this is Jiaming, new to GitHub but programming learner and enthusiastist 
+
+### try loose list and tight list here
+
+1. aaa
+2. bbb
+3. ccc
+
+
+1. fff'
+2. eee
